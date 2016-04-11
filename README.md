@@ -1,9 +1,9 @@
 # Dojo Javascript
 
-Para rodar o projeto você precisa ter instalado o [git](https://git-scm.com/downloads) o [node](https://nodejs.org/en/download/).
+Para rodar o projeto você precisa ter instalado o [git](https://git-scm.com/downloads) e o [node](https://nodejs.org/en/download/).
 
 
-Clonar aplicação
+Clonar a aplicação
 ```
 git clone https://github.com/oxedev/dojo-javascript.git
 cd dojo-javascript
